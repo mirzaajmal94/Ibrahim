@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color: rgb(7, 17, 14);
+    color: azure;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+
+}
+.logo{
+    background-image: url(download.jpeg);
+    height: 50px;
+    background-size: cover;
+    width: 100px;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid green;
+}
